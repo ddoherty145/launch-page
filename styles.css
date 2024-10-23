@@ -24,7 +24,7 @@ body{
 .hero-background-img:after {
     content: "";
     position: absolute;
-    background-image: url("raul-taciu-Nc_0UwdZG-o-unsplash.jpg");
+    background-image: url('images/raul-taciu-Nc_0UwdZG-o-unsplash.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
